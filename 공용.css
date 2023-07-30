@@ -1,0 +1,24 @@
+/* common css */
+* {
+    margin: 0;               /* 여백 없애기 */
+    padding: 0;              /* 여백 없애기 */
+    list-style: none;        /* li태그 스타일 없애기 */
+}
+
+/* body 기본값 */
+body {
+    width: 80%;     /* 넓이 */
+    margin: 0 auto; /* 가운데 정렬 */
+}
+
+a {
+    text-decoration: none;   /* 태그 밑줄 없애기 */
+    color: black;          
+}
+
+/* 버튼 기본 스타일 없애기 */
+button {
+    border: 0;
+    outline: 0;
+    background: none;
+}
