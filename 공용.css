@@ -11,6 +11,7 @@ body {
     margin: 0 auto; /* 가운데 정렬 */
 }
 
+/* a 태그 기본 스타일 없애기 */
 a {
     text-decoration: none;   /* 태그 밑줄 없애기 */
     color: black;          
